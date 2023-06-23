@@ -7,3 +7,7 @@ git branch -a list all branches (local and remote)
 git branch -d <branchname> delete a branch
 
 > I admit that I am lazy and just copies that from the handout. _shruggingshoulders_
+
+Another change for another commit.
+
+Ich schreibe hier irgendwas rein.
